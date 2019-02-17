@@ -1,0 +1,25 @@
+{
+  "name": "hackerearth",
+  "version": "1.0.0",
+  "description": "Problems Solved by Vamsi Nandan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nandansv/HackerEarth.git"
+  },
+  "keywords": [
+    "HE",
+    "hacker",
+    "hackerearth",
+    "problems"
+  ],
+  "author": "Nandan $ V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nandansv/HackerEarth/issues"
+  },
+  "homepage": "https://github.com/Nandansv/HackerEarth#readme"
+}
